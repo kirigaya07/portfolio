@@ -35,9 +35,9 @@ portfolio/
 
 ## 📧 Contact
 
-- **Email**: [your-email@example.com]
-- **LinkedIn**: [your-linkedin]
-- **GitHub**: [your-github]
+- **Email**: [anmolchandrakar999@gmail.com]
+- **LinkedIn**: [https://www.linkedin.com/in/anmol-chandrakar/]
+- **GitHub**: [https://github.com/kirigaya07]
 
 ## 📄 License
 
